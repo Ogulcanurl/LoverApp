@@ -1,0 +1,12 @@
+D:\LoversApp\LoversApp\LoversApp\bin\Debug\LoversApp.exe.config
+D:\LoversApp\LoversApp\LoversApp\bin\Debug\LoversApp.exe
+D:\LoversApp\LoversApp\LoversApp\bin\Debug\LoversApp.pdb
+D:\LoversApp\LoversApp\LoversApp\obj\Debug\LoversApp.csproj.AssemblyReference.cache
+D:\LoversApp\LoversApp\LoversApp\obj\Debug\LoversApp.csproj.SuggestedBindingRedirects.cache
+D:\LoversApp\LoversApp\LoversApp\obj\Debug\LoversApp.Anasayfa.resources
+D:\LoversApp\LoversApp\LoversApp\obj\Debug\LoversApp.Galeri.resources
+D:\LoversApp\LoversApp\LoversApp\obj\Debug\LoversApp.Properties.Resources.resources
+D:\LoversApp\LoversApp\LoversApp\obj\Debug\LoversApp.csproj.GenerateResource.cache
+D:\LoversApp\LoversApp\LoversApp\obj\Debug\LoversApp.csproj.CoreCompileInputs.cache
+D:\LoversApp\LoversApp\LoversApp\obj\Debug\LoversApp.exe
+D:\LoversApp\LoversApp\LoversApp\obj\Debug\LoversApp.pdb
